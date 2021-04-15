@@ -4,8 +4,7 @@ Technology I used
 ---
 - HTML 
 - css 
-- js
-
+- Bootstrap
 
 --- 
 
